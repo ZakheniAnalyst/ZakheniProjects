@@ -1,7 +1,7 @@
 # ZakheniProjects
-# 📊 Junior Data Analyst Portfolio
+# 📊 My Portfolio as a Data Analyst
 
-Welcome to my data analytics portfolio! I'm a Junior Data Analyst with a passion for turning raw data into meaningful insights. This repository showcases three beginner-to-intermediate level projects using Power BI, Excel, and SQL. Each project highlights different skills in data cleaning, analysis, and visualization.
+Welcome to my data analytics portfolio! I'm a Data Analyst with a passion for turning raw data into meaningful insights. This repository showcases three beginner-to-intermediate level projects using Power BI, Excel, and SQL. Each project highlights different skills in data cleaning, analysis, and visualization.
 
 ---
 
@@ -37,7 +37,7 @@ Welcome to my data analytics portfolio! I'm a Junior Data Analyst with a passion
 
 ## 🍽️ Project 3: SQL Analysis – Restaurant Orders Data
 
-**Tools Used:** SQL (PostgreSQL / MySQL)  
+**Tools Used:** SQL (MySQL)  
 **Dataset:** Restaurant orders data with two related tables  
 **Source:** [Maven Analytics](https://www.mavenanalytics.io/)
 
