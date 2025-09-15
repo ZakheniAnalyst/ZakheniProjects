@@ -29,14 +29,15 @@ Welcome to my data analytics portfolio! I'm a Data Analyst with a passion for tu
 **Tools Used:** Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)  
 ## Dataset Used 
 <a href="https://github.com/ZakheniAnalyst/ZakheniProjects/blob/main/Australian%20Cancer%20Patient%20Dataset%20(2000%E2%80%932024).csv">Dataset</a>
+
+## Dashboard Image
+
 ## Source: Australian Government / Kaggle
 
 ### 📌 Project Highlights:
 - Cleaned and structured over 20 years of cancer patient data.
 - Analyzed trends by age group, gender, and cancer type.
 - Built interactive dashboards using pivot charts and slicers.
-
-👉 **[View Excel File](#)** | **[Project Summary](#)**
 
 ---
 
