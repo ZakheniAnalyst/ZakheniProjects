@@ -27,8 +27,9 @@ Welcome to my data analytics portfolio! I'm a Data Analyst with a passion for tu
 ## 🧮 Project 2: Excel Analysis – Australian Cancer Patients (2000–2024)
 
 **Tools Used:** Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)  
-**Dataset:**  
-**Source:** Australian Government / Kaggle
+## Dataset Used 
+<a href="https://github.com/ZakheniAnalyst/ZakheniProjects/blob/main/Australian%20Cancer%20Patient%20Dataset%20(2000%E2%80%932024).csv">Dataset</a>
+## Source: Australian Government / Kaggle
 
 ### 📌 Project Highlights:
 - Cleaned and structured over 20 years of cancer patient data.
