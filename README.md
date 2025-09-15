@@ -17,6 +17,9 @@ Welcome to my data analytics portfolio! I'm a Data Analyst with a passion for tu
 - Conducted trend analysis by matchday and player performance.
 
 👉 **[View Project Report](#)** | **[Power BI Dashboard Screenshot](#)**  |  **[Dataset Used](#)**
+
+## Dataset Used
+- <a href="https://github.com/ZakheniAnalyst/ZakheniProjects/blob/main/EPL%2023%2024%20top%20scorers.xlsx">Dataset</a>
   
 
 ---
