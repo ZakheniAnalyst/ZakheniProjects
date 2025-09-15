@@ -16,18 +16,18 @@ Welcome to my data analytics portfolio! I'm a Data Analyst with a passion for tu
 - Created dynamic dashboards with slicers and filters.
 - Conducted trend analysis by matchday and player performance.
 
-👉 **[View Project Report](#)** | **[Power BI Dashboard Screenshot](#)**  |  **[Dataset Used](#)**
 
 ## Dataset Used
-- <a href="https://github.com/ZakheniAnalyst/ZakheniProjects/blob/main/EPL%2023%2024%20top%20scorers.xlsx">Dataset</a>
-  
+👉 - <a href="https://github.com/ZakheniAnalyst/ZakheniProjects/blob/main/EPL%2023%2024%20top%20scorers.xlsx">Dataset</a>
+ ## Dashboard image
+ <img width="1305" height="726" alt="EPL dashboard image" src="https://github.com/user-attachments/assets/22a9ea2e-0f25-4810-8fab-f9d8d1f67d8c" />
 
 ---
 
 ## 🧮 Project 2: Excel Analysis – Australian Cancer Patients (2000–2024)
 
 **Tools Used:** Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)  
-**Dataset:** [Australian Cancer Data 2000–2024](https://www.kaggle.com/) from Kaggle  
+**Dataset:**  
 **Source:** Australian Government / Kaggle
 
 ### 📌 Project Highlights:
