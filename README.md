@@ -31,6 +31,7 @@ Welcome to my data analytics portfolio! I'm a Data Analyst with a passion for tu
 <a href="https://github.com/ZakheniAnalyst/ZakheniProjects/blob/main/Australian%20Cancer%20Patient%20Dataset%20(2000%E2%80%932024).csv">Dataset</a>
 
 ## Dashboard Image
+<img width="1866" height="687" alt="Australian Excel Image" src="https://github.com/user-attachments/assets/f66c0db5-5bb7-4258-a12c-13cc1d590b4f" />
 
 ## Source: Australian Government / Kaggle
 
