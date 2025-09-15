@@ -54,7 +54,7 @@ Welcome to my data analytics portfolio! I'm a Data Analyst with a passion for tu
 
 If you’d like to connect or learn more about my work, feel free to reach out!
 
-- 💼 LinkedIn [[LinkedIn](https://www.linkedin.com/in/zakheni-mathonsi-466758335/)](#)
+- 💼 LinkedIn [[LinkedIn](https://www.linkedin.com/in/zakheni-mathonsi-466758335/)]
 - 📧 Email: zakhenianalyst@gmail.com
 
 ---
